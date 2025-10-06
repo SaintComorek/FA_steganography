@@ -1,0 +1,10 @@
+Toto je tajná zpráva!
+    
+Program pro steganografii úspěšně funguje.
+Tento text byl ukryt do obrázku pomocí LSB steganografie.
+
+Datum: 2025-10-05
+Kódování: UTF-8
+Metoda: LSB (Least Significant Bit)
+
+🔒 Tajný obsah úspěšně ukryt! 🔒
