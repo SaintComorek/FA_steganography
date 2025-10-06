@@ -3,7 +3,7 @@
 Steganografický nástroj - Program pre ukrývanie súborov do obrázkov
 Implementuje LSB steganografiu s hlavičkou obsahujúcou metadáta o uloženom súbore.
 
-Autor: [Vaše meno]
+Autor: [Pavol Comorek]
 Dátum: 2025-10-05
 """
 
